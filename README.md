@@ -264,8 +264,7 @@ The supported language codes are:
 |en-ca|English (Canada)|
 |en-gb|English (Great Britain)|
 |en-in|English (India)|
-|en-us|English (United States)|
-|fi-fi|Finnish|
+|en-us|English (United States)||fi-fi|Finnish|
 |fr-ca|French (Canada)|
 |fr-fr|French (France)|
 |de-de|German|
